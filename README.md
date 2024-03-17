@@ -4,7 +4,7 @@ Optical Character Recognition or OCR is a technology that enables the conversion
 editable and searchable formats.<br>
 The process of OCR involves several steps such as scanning the input document or image, segregating individual characters based on
 predefined patterns and recognizing them by comparing characters with some known character database or by using machine
-learning.<be>
+learning.<br>
 <br>
 ML techniques can be employed in different stages of OCR, such as image preprocessing, text localization, character segmentation,
 and character recognition.<br>
